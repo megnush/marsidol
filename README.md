@@ -1,0 +1,5 @@
+Mars Idol is a global platform that provides aspiring singers and actors with the opportunity to showcase their talents and achieve their dreams. With its mission to support and encourage aspiring artists, Mars Idol offers a platform to perform and share their work with the world.
+
+Through its funding support program, Mars Idol provides financial assistance to help artists take their careers to the next level. Whether it's funding for recording sessions, music videos, or acting projects, Mars Idol empowers artists to turn their passions into realities. With a commitment to helping artists achieve their goals, Mars Idol is a trusted and valuable resource for those seeking to make their mark in the entertainment industry.
+
+Whether you're a seasoned performer or just starting out, Mars Idol is the perfect place to pursue your passions and launch your career in singing and acting. Join the community of talented artists and see your dreams come to life on the biggest stage of them all - Mars Idol.
