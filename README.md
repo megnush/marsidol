@@ -1,4 +1,8 @@
+
 Mars Idol is a global platform that provides aspiring singers and actors with the opportunity to showcase their talents and achieve their dreams. With its mission to support and encourage aspiring artists, Mars Idol offers a platform to perform and share their work with the world.
+
+The MARSIDOL smart contract has been launched and its token address is 0x54b3d0e607f2ee9cac1894cb1477161b11c8015a. If you're interested in buying MARSIDOL tokens, you can visit the provided link https://pancakeswap.finance/swap?outputCurrency=0x54b3d0e607f2ee9cac1894cb1477161b11c8015a to do so. The link will direct you to PancakeSwap, a decentralized exchange where you can purchase the tokens using cryptocurrency such as Ethereum. Make sure to do your own research and due diligence before making any investments.
+
 
 Through its funding support program, Mars Idol provides financial assistance to help artists take their careers to the next level. Whether it's funding for recording sessions, music videos, or acting projects, Mars Idol empowers artists to turn their passions into realities. With a commitment to helping artists achieve their goals, Mars Idol is a trusted and valuable resource for those seeking to make their mark in the entertainment industry.
 
