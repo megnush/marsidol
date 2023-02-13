@@ -419,7 +419,7 @@ contract MARSIDOL is Context, IERC20, Ownable {
     
     uint256 public _sellLiquidityFee = 2;
     uint256 public _sellMarketingFee = 2;
-    uint256 public _sellTeamFee = 5;
+    uint256 public _sellTeamFee = 4;
 
     uint256 public _liquidityShare = 4;
     uint256 public _marketingShare = 4;
